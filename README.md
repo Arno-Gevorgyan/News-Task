@@ -16,7 +16,7 @@
     The first thing to do is to clone the repository:
 
 
-1.   $ git clone https://github.com/Arno-Gevorgyan/Newstask.git
+1.   $ git clone https://github.com/Arno-Gevorgyan/News-Task.git
 2.   $ cd Newstask/NewsPortal/NewsWorld
 
 
