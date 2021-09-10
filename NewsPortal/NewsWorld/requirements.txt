@@ -5,5 +5,5 @@ django-js-asset==1.2.2
 Pillow==8.0.1
 python-decouple==3.3
 pytz==2020.4
-sqlparse==0.4.1
+sqlparse==0.4.2
 
